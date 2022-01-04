@@ -9,3 +9,4 @@ batch details for brewing kombucha
 | Carl | Darjeeling | 09/13/21 | 1.99 | 2t  | 3 bottles Orange Juice, Vanilla (1/4 C)  | - | - | - |
 | D.W. | Darjeeling | 09/30/21 | 1.86 | 2t | 3 bottles. Carrot Orange Ginger (1/4C) | 10/07/21 | 10/10/21 | 2.46 |
 | Emil ![Emil Nigel Ratburn III](https://static.wikia.nocookie.net/parody/images/2/2b/521bf5779fd023792ec7cb0b8bfff743_400x400.jpg/revision/latest?cb=20170721033044)| Darjeeling | 11/16/21 | 2.37 | 2t | 2 bottles Apricot (a: 1/2C, b: 1/4C) | 11/24/21 | 11/29/21 | a: 2.6, b: 2.36 |
+| Francine ![Francine Alice Frensky](https://static.wikia.nocookie.net/arthur/images/6/64/Francine_706b.png/revision/latest/scale-to-width-down/250?cb=20160903120046) | Oolong | 12/27/21 | 2.3 | 2t | Orange/Vanilla | - | - | - |
