@@ -11,4 +11,4 @@ batch details for brewing kombucha
 | Emil ![Emil Nigel Ratburn III](https://static.wikia.nocookie.net/parody/images/2/2b/521bf5779fd023792ec7cb0b8bfff743_400x400.jpg/revision/latest?cb=20170721033044)| Darjeeling | 11/16/21 | 2.37 | 2t | 2 bottles Apricot (a: 1/2C, b: 1/4C) | 11/24/21 | 11/29/21 | a: 2.6, b: 2.36 | - |
 | Francine ![Francine Alice Frensky](https://static.wikia.nocookie.net/arthur/images/6/64/Francine_706b.png/revision/latest/scale-to-width-down/250?cb=20160903120046) | Oolong | 12/27/21 | 2.3 | 2 t | ¼ C Orange / ½ t Vanilla  | 01/03/22 | 01/07/22 | 2.70 | ✭✭✭✭☆ |
 | George ![George Lundgren](https://static.wikia.nocookie.net/p__/images/3/3b/George_Lundgren_%28Arthur%29.png/revision/latest?cb=20200201011939&path-prefix=protagonist) | Oolong | 05/12/22 | 2.1 | 2 t | ¼ C Pomegranate / ½ t Vanilla | 05/20/22 | - | - | ✭✭✭✭☆ |
-| ??? | Oolong | 05/21/22 | 1.96 | 2 t | ¼ C Orange / ½ t Vanilla | 05/30/22 | 06/04/22 | 2.59 | ✭✭✭✭✭ |
+| Fern ![Fern Walters](https://64.media.tumblr.com/10be038eb0a1fb44daf703e4c7db85bc/tumblr_mzczmbxTf71rh5dflo1_500.jpg) | Oolong | 05/21/22 | 1.96 | 2 t | ¼ C Orange / ½ t Vanilla | 05/30/22 | 06/04/22 | 2.59 | ✭✭✭✭✭ |
